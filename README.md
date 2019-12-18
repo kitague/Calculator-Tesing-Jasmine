@@ -7,6 +7,8 @@ take a look at the spec file that houses the Jasmine test cases.
 Below are my tests faileed and passed files included all tests passed.
 Test passed and I ahve practiced testing with Jasmine in Javascript
 
+Testing is to familar learner with multiple concepts with javascript
+
 jasmine calculator.spec.js
 
 ***********************************************
