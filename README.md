@@ -69,3 +69,4 @@ Started
 16 specs, 0 failures
 Finished in 0.332 seconds
 Randomized with seed 98384 (jasmine --random=true --seed=98384</pre># Calcultor-Testing-Jasmin
+Jasmine Testing with javascript for the Odin Project course
