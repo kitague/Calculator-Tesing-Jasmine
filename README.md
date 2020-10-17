@@ -30,7 +30,7 @@ Failures:
         at UserContext.&lt;anonymous&gt; (/home/ousmane/javascript-exercises/calculator/calculator.spec.js:29:31)
         at &lt;Jasmine&gt;
 
-2) sum computes the sum of an array of two numbers
+2) sum computes the sum of an array of two numbers. You can use addition sign for this test.
   Message:
 <font color="#AA0000">    Expected 0 to equal 18.</font>
   Stack:
